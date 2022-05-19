@@ -504,11 +504,10 @@ body._lock {
   transition: 0.3s;
 }
 
-.block3{
-  background: url("../img/block3-fullscreen.jpg") center/cover no-repeat fixed; }
 
 .block3 {
   min-height: 100vh;
+  background: url("../img/block3-fullscreen.jpg") center/cover no-repeat fixed;
 }
 
 .block4 {
